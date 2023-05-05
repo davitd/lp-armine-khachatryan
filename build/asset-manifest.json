@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "./static/css/main.e52b1989.css",
+    "main.js": "./static/js/main.3b37ed1a.js",
+    "static/media/Pic.svg": "./static/media/Pic.f2939fef011c51272a9911505b413960.svg",
+    "static/media/Group 275.svg": "./static/media/Group 275.3745e10272a12f9b1b6fe09e806ffc4e.svg",
+    "static/media/manrope-all-400-normal.woff": "./static/media/manrope-all-400-normal.29812aea39915b828ff1.woff",
+    "static/media/logoNettTreff 5.svg": "./static/media/logoNettTreff 5.e67e5bb5dca891e7629b042c94e87c7b.svg",
+    "static/media/logoNettTreff 7.svg": "./static/media/logoNettTreff 7.7d149d2f14b77b2fcb5f2ee7de1a40e7.svg",
+    "static/media/logoNettTreff 1.svg": "./static/media/logoNettTreff 1.b1c02e9880ac74801238be7e797899c1.svg",
+    "static/media/manrope-latin-400-normal.woff2": "./static/media/manrope-latin-400-normal.2cfae0fb4662deefa552.woff2",
+    "static/media/manrope-latin-ext-400-normal.woff2": "./static/media/manrope-latin-ext-400-normal.9408d54f42fd8adee645.woff2",
+    "static/media/manrope-cyrillic-400-normal.woff2": "./static/media/manrope-cyrillic-400-normal.18b8749c8a2e81c91aa3.woff2",
+    "static/media/manrope-greek-400-normal.woff2": "./static/media/manrope-greek-400-normal.d9fa2c702d76a9760e1b.woff2",
+    "static/media/manrope-vietnamese-400-normal.woff2": "./static/media/manrope-vietnamese-400-normal.4bb1be8af765fce74e9b.woff2",
+    "static/media/manrope-cyrillic-ext-400-normal.woff2": "./static/media/manrope-cyrillic-ext-400-normal.a26a46564e052e1282fa.woff2",
+    "index.html": "./index.html",
+    "main.e52b1989.css.map": "./static/css/main.e52b1989.css.map",
+    "main.3b37ed1a.js.map": "./static/js/main.3b37ed1a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e52b1989.css",
+    "static/js/main.3b37ed1a.js"
+  ]
+}

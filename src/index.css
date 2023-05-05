@@ -1,0 +1,12 @@
+@import "@fontsource/manrope";
+
+* {
+  box-sizing: border-box;
+  font-family: "Manrope", sans-serif; 
+}
+
+body { 
+  margin: 0;
+  padding: 0;
+}
+
